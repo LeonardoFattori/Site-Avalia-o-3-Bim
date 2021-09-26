@@ -1,0 +1,9 @@
+html{
+    display: grid;
+}
+
+body{
+    background-image: url('../imagens/fundo.jpg');
+    background-size: contain;
+    align-items: center;
+}
